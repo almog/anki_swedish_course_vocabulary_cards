@@ -1,0 +1,280 @@
+arbetar	worker/work
+worker/work	arbetar
+bara	רק
+רק	bara
+barn (ett)	ילד
+ילד	barn (ett)
+det	זה
+זה	det
+din	שלך
+שלך	din
+dotter (en)	daughter
+daughter	dotter (en)
+du	אתה
+אתה	du
+då	then
+then	då
+du då?	And you?
+And you?	du då?
+Flickvän (en)	בת זוג
+בת זוג	Flickvän (en)
+fru (en)	אשה
+אשה	fru (en)
+från	from
+from	från
+gift	Married
+Married	gift
+Han	Him
+Him	Han
+har	has, have
+has, have	har
+hej	Hi
+Hi	hej
+heter	My name is
+My name is	heter
+hon	She
+She	hon
+här	Here
+Here	här
+inte	not
+not	inte
+ja	Yes
+Yes	ja
+jag	Me
+Me	jag
+Jobbar	Work (as in working)
+Work (as in working)	Jobbar
+Kommer	בא
+בא	Kommer
+läkare	Physician (Doctor)
+Physician (Doctor)	läkare
+Man(en)	Man, husband
+Man, husband	Man(en)
+Med	With
+With	Med
+Men	But
+But	Men
+Nej	No
+No	Nej
+Och	ו /&nbsp;And
+ו /&nbsp;And	Och
+Ocksa	גם/Also
+גם/Also	Ocksa
+ogift	Not married
+Not married	ogift
+Pensionär	Pensioner
+Pensioner	Pensionär
+Pluggar	לומד (רשמי)
+לומד (רשמי)	Pluggar
+Pojkvän (en)	בן זוג
+בן זוג	Pojkvän (en)
+Programmerare	מתכנת
+מתכנת	Programmerare
+sambo (env)	ידוע בציבור
+ידוע בציבור	sambo (env)
+Singel (en)	רווק
+רווק	Singel (en)
+Son (en)	Son
+Son	Son (en)
+Språk	Language
+Language	Språk
+Studerar	Studying (itformal)
+Studying (itformal)	Studerar
+Svensk	Swedish
+Swedish	Svensk
+Sverige	Sweden
+Sweden	Sverige
+Talar	Talking
+Talking	Talar
+två	שניים / two
+שניים / two	två
+vad?	מה? What?
+מה? What?	vad?
+vad för?	איזה?
+איזה?	vad för?
+varifrån?	מאיפה?
+מאיפה?	varifrån?
+vi	אנחנו
+אנחנו	vi
+yrke	מקצוע
+מקצוע	yrke
+är	am, are, is
+am, are, is	är
+all	everybody
+everybody	all
+bor	גר / living
+גר / living	bor
+bra	טוב
+טוב	bra
+de	They
+They	de
+det här	זה, הזה
+זה, הזה	det här
+det var så lite	על לא דבר
+על לא דבר	det var så lite
+forkskning (en)	מחקר
+מחקר	forkskning (en)
+folk (ett)	People
+People	folk (ett)
+frågar	שואל
+שואל	frågar
+från början	במקור
+במקור	från början
+för	בשביל, ל
+בשביל, ל	för
+företag	חברה (עסקית)
+חברה (עסקית)	företag
+förkyld	מקורר
+מקורר	förkyld
+förlåt	סליחה
+סליחה	förlåt
+förstår	מבין
+מבין	förstår
+God dag!	Have a good day!
+Have a good day!	God dag!
+God natt	Good night
+Good night	God natt
+gott!	טעים
+טעים	gott!
+vad gott	כמה טעים!
+כמה טעים!	vad gott
+gå	To walk
+To walk	gå
+går	Walking
+Walking	går
+gör	Doing
+Doing	gör
+Hej då	Bye
+Bye	Hej då
+Hur?	How?
+How?	Hur?
+Hus	House
+House	Hus
+i	In / ב
+In / ב	i
+i dag	today
+today	i dag
+i morgon	tomorrow
+tomorrow	i morgon
+interessant	מעניין
+מעניין	interessant
+interesserad	מעוניין
+מעוניין	interesserad
+jourlanlist (en)	-
+-	jourlanlist (en)
+kam	מסרק
+מסרק	kam
+kanske	אולי
+אולי	kanske
+karta (en)	map
+map	karta (en)
+kul	Fun!
+Fun!	kul
+Vad kul!	How fun!
+How fun!	Vad kul!
+lite	קצת
+קצת	lite
+lugnt	רגוע
+רגוע	lugnt
+läge (ett)	מצב
+מצב	läge (ett)
+Hur är läget?&nbsp;	מה המצב?
+מה המצב?	Hur är läget?&nbsp;
+läser	studying/reading
+studying/reading	läser
+mamma (en)	mom
+mom	mamma (en)
+mat (en)	food
+food	mat (en)
+min, mina	mine
+mine	min, mina
+mobiletelefon(en)	-
+-	mobiletelefon(en)
+mycket	מאד, הרבה
+מאד, הרבה	mycket
+mår	feeling/מרגיש
+feeling/מרגיש	mår
+måste	must
+must	måste
+ni	אתם\אתן
+אתם\אתן	ni
+nu	עכשיו
+עכשיו	nu
+ordbok (en)	מילון
+מילון	ordbok (en)
+paket (ett)	חבילה
+חבילה	paket (ett)
+pappa (en)	Father
+Father	pappa (en)
+Penna (en)	pencil/pen
+pencil/pen	Penna (en)
+på	על, ב
+על, ב	på
+restaurang (en)	מסעדה
+מסעדה	restaurang (en)
+ringer	Calling
+Calling	ringer
+rolight	נחמד
+נחמד	rolight
+Vad roligt!	How nice!
+How nice!	Vad roligt!
+Rolight att träffas!	נחמד להכיר!
+נחמד להכיר!	Rolight att träffas!
+själv	עצמו
+עצמו	själv
+Och&nbsp;själv	ואת\ה?
+ואת\ה?	Och&nbsp;själv
+ska + שם פועל	Indicates a future
+Indicates a future	ska + שם פועל
+Sommar (en)	Summer
+Summer	Sommar (en)
+Sov gott!	חלומות פז!
+חלומות פז!	Sov gott!
+stad (en)	עיר
+עיר	stad (en)
+Stan	The city
+The city	Stan
+suddgummi (ett)	Eraser
+Eraser	suddgummi (ett)
+så	כל כך
+כל כך	så
+så där	ככה ככה
+ככה ככה	så där
+tack	Thanks
+Thanks	tack
+Tack så mycket!	Thanks a lot!
+Thanks a lot!	Tack så mycket!
+(Tack) detsamma!	גם לך
+גם לך	(Tack) detsamma!
+tandläkare (en)	רופא שיניים
+רופא שיניים	tandläkare (en)
+tja	אהלן
+אהלן	tja
+tjena	אהלן
+אהלן	tjena
+Toppen!	מעולה!
+מעולה!	Toppen!
+Trevlig helg!	סוף שבוע טוב!
+סוף שבוע טוב!	Trevlig helg!
+tror att	חושב ש
+חושב ש	tror att
+träffa	To meet
+To meet	träffa
+trött	Tired
+Tired	trött
+tuggummi	גומי לעיסה
+גומי לעיסה	tuggummi
+universitet	אוניברסיטה
+אוניברסיטה	universitet
+Ursäkta!	סליחה!
+סליחה!	Ursäkta!
+var	היה
+היה	var
+var?	Where?
+Where?	var?
+vi ses!	להתראות
+להתראות	vi ses!
+väska (en)	Bag
+Bag	väska (en)
+älskar	אוהב
+אוהב	älskar
